@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	--background-color-accent-1: #1e2b3e;
+	--background-color-accent-2: #121a26;
+	--b-font: 5rem;
+	--h2-font: 3rem;
+	--p-font: 1rem;
+	--fontcolor: #fff;
+	--fontcolor-2: #ccc;
+	--accent-1: #ccc;
+	--accent-2: #7140bf;
+}
+
+body {
+	font-family: "Roboto", sans-serif;
+}
